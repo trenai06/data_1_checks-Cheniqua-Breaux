@@ -29,3 +29,7 @@ Batch = [
     "Olive Oil" : 39
 }
 ]
+print (Batch [0])
+print (type (Batch[0]))
+print (Batch[0] ["Bread Flour"])
+
